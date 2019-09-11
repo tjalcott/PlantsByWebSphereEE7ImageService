@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><libraryInfos>
+<libraryInfo home="D:\LibertyPoT_18.0.0.4_WIN\WLP_18.0.0.4\wlp\java" version="1.8.0_191">
+<bootpath>
+<entry path="D:\LibertyPoT_18.0.0.4_WIN\WLP_18.0.0.4\wlp\java\jre\bin\compressedrefs\jclSC180\vm.jar"/>
+<entry path="D:\LibertyPoT_18.0.0.4_WIN\WLP_18.0.0.4\wlp\java\jre\lib\se-service.jar"/>
+<entry path="D:\LibertyPoT_18.0.0.4_WIN\WLP_18.0.0.4\wlp\java\jre\lib\math.jar"/>
+<entry path="D:\LibertyPoT_18.0.0.4_WIN\WLP_18.0.0.4\wlp\java\jre\lib\ibmorb.jar"/>
+<entry path="D:\LibertyPoT_18.0.0.4_WIN\WLP_18.0.0.4\wlp\java\jre\lib\ibmorbapi.jar"/>
+<entry path="D:\LibertyPoT_18.0.0.4_WIN\WLP_18.0.0.4\wlp\java\jre\lib\ibmcfw.jar"/>
+<entry path="D:\LibertyPoT_18.0.0.4_WIN\WLP_18.0.0.4\wlp\java\jre\lib\ibmpkcs.jar"/>
+<entry path="D:\LibertyPoT_18.0.0.4_WIN\WLP_18.0.0.4\wlp\java\jre\lib\ibmcertpathfw.jar"/>
+<entry path="D:\LibertyPoT_18.0.0.4_WIN\WLP_18.0.0.4\wlp\java\jre\lib\ibmjgssfw.jar"/>
+<entry path="D:\LibertyPoT_18.0.0.4_WIN\WLP_18.0.0.4\wlp\java\jre\lib\ibmjssefw.jar"/>
+<entry path="D:\LibertyPoT_18.0.0.4_WIN\WLP_18.0.0.4\wlp\java\jre\lib\ibmsaslfw.jar"/>
+<entry path="D:\LibertyPoT_18.0.0.4_WIN\WLP_18.0.0.4\wlp\java\jre\lib\ibmjcefw.jar"/>
+<entry path="D:\LibertyPoT_18.0.0.4_WIN\WLP_18.0.0.4\wlp\java\jre\lib\ibmjgssprovider.jar"/>
+<entry path="D:\LibertyPoT_18.0.0.4_WIN\WLP_18.0.0.4\wlp\java\jre\lib\ibmjsseprovider2.jar"/>
+<entry path="D:\LibertyPoT_18.0.0.4_WIN\WLP_18.0.0.4\wlp\java\jre\lib\ibmcertpathprovider.jar"/>
+<entry path="D:\LibertyPoT_18.0.0.4_WIN\WLP_18.0.0.4\wlp\java\jre\lib\xmldsigfw.jar"/>
+<entry path="D:\LibertyPoT_18.0.0.4_WIN\WLP_18.0.0.4\wlp\java\jre\lib\xml.jar"/>
+<entry path="D:\LibertyPoT_18.0.0.4_WIN\WLP_18.0.0.4\wlp\java\jre\lib\charsets.jar"/>
+<entry path="D:\LibertyPoT_18.0.0.4_WIN\WLP_18.0.0.4\wlp\java\jre\lib\resources.jar"/>
+<entry path="D:\LibertyPoT_18.0.0.4_WIN\WLP_18.0.0.4\wlp\java\jre\lib\rt.jar"/>
+<entry path="D:\LibertyPoT_18.0.0.4_WIN\WLP_18.0.0.4\wlp\java\jre\lib\dataaccess.jar"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\LibertyPoT_18.0.0.4_WIN\WLP_18.0.0.4\wlp\java\jre\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\LibertyPoT_18.0.0.4_WIN\WLP_18.0.0.4\wlp\java\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

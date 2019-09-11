@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\LibertyPoT_18.0.0.4_WIN\WLP_18.0.0.4\wdt\eclipse\default-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1219551567.index
+1164992338.index
+1744737015.index
+3923389109.index
+1404602988.index
+1532766863.index

@@ -1,0 +1,77 @@
+<server description="pbwEE7ImageServer">
+
+    <!-- Enable features -->
+    <featureManager>
+        <feature>javaMail-1.5</feature>
+      	<feature>beanValidation-1.1</feature>
+        <feature>jdbc-4.1</feature>
+        <feature>jpa-2.1</feature>
+        <feature>jsf-2.2</feature>
+        <feature>jsp-2.3</feature>
+        <feature>localConnector-1.0</feature>
+    	<feature>ejbLite-3.2</feature>
+	<feature>cdi-1.2</feature>
+    </featureManager>
+
+    <!-- To access this server from a remote client add a host attribute to the following element, e.g. host="*" -->
+    <httpEndpoint httpPort="9080" httpsPort="9443" id="defaultHttpEndpoint"/>
+                  
+    <!-- Automatically expand WAR files and EAR files -->
+    <applicationManager autoExpand="true"/>
+    
+    <library id="DB2JCCLib">
+     <fileset dir="../../../../DB2Libs" includes="db2jcc4.jar"/>
+	</library>
+	
+	 <dataSource id="db2xa" jndiName="jdbc/PlantsByWebSphereDataSource" type="javax.sql.XADataSource">
+    <jdbcDriver libraryRef="DB2JCCLib"/>
+    <properties.db2.jcc databaseName="PBW" password="db2inst1" portNumber="50000" serverName="192.168.142.137" user="db2inst1"/>
+	</dataSource>
+	
+	 <dataSource id="db2nonxa" jndiName="jdbc/PlantsByWebSphereDataSourceNONJTA" type="javax.sql.ConnectionPoolDataSource">
+    <jdbcDriver libraryRef="DB2JCCLib"/>
+    <properties.db2.jcc databaseName="PBW" password="db2inst1" portNumber="50000" serverName="192.168.142.137" user="db2inst1"/>
+	</dataSource>
+
+
+    <applicationMonitor updateTrigger="mbean"/>
+
+    <enterpriseApplication id="PlantsByWebSphereEE7" location="PlantsByWebSphereEE7.ear" name="PlantsByWebSphereEE7"/>
+</server>
+
+    <!-- Enable features -->
+    <featureManager>
+      <feature>jpa-2.1</feature>
+     <feature>jdbc-4.1</feature>
+      <feature>servlet-3.1</feature>
+      <feature>localConnector-1.0</feature>
+      <feature>jaxrs-2.0</feature>
+    </featureManager>
+
+    <!-- To access this server from a remote client add a host attribute to the following element, e.g. host="*" -->
+    <httpEndpoint host="*" httpPort="9081" httpsPort="9444" id="defaultHttpEndpoint"/>
+     <!--   <quickStartSecurity userName="wasadmin" userPassword="{xor}KD4sPjsyNjE="/> -->
+                  
+    <!-- Automatically expand WAR files and EAR files -->
+    <applicationManager autoExpand="true"/>
+    
+    
+    <library id="DB2JCCLib">
+     <fileset dir="../../../../DB2Libs" includes="db2jcc4.jar"/>
+	</library>
+	
+	 <dataSource id="db2xa" jndiName="jdbc/PlantsByWebSphereDataSource" type="javax.sql.XADataSource">
+    <jdbcDriver libraryRef="DB2JCCLib"/>
+    <properties.db2.jcc databaseName="PBW" password="db2inst1" portNumber="50000" serverName="192.168.142.137" user="db2inst1"/>
+	</dataSource>
+	
+	 <dataSource id="db2nonxa" jndiName="jdbc/PlantsByWebSphereDataSourceNONJTA" type="javax.sql.ConnectionPoolDataSource">
+    <jdbcDriver libraryRef="DB2JCCLib"/>
+    <properties.db2.jcc databaseName="PBW" password="db2inst1" portNumber="50000" serverName="192.168.142.137" user="db2inst1"/>
+	</dataSource>
+
+
+    <applicationMonitor updateTrigger="mbean"/>
+
+    <enterpriseApplication id="PlantsByWebSphereImageServiceEE7EAR" location="PlantsByWebSphereImageServiceEAR.ear" name="PlantsByWebSphereImageServiceEAR"/>
+</server>

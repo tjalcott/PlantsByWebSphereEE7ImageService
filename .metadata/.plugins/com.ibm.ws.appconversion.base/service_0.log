@@ -1,0 +1,1080 @@
+Sep 11, 2019 10:09:37 AM ServiceLogger resultAdded
+FINER: provider=AnalysisElement(com.ibm.rsar.analysis.xml.core.provider),owner=com.ibm.ws.appconversion.javaee.ee7.jpa.rules.xml.JpaCachePropertieslabel=persistence.xml:5 found in PlantsByWebSphereImageService
+Sep 11, 2019 10:09:37 AM ServiceLogger resultAdded
+FINER: provider=AnalysisElement(com.ibm.rsar.analysis.xml.core.provider),owner=com.ibm.ws.appconversion.javaee.ee7.jpa.rules.xml.JpaCachePropertieslabel=persistence.xml:5 found in PlantsByWebSphere
+Sep 11, 2019 10:09:38 AM ServiceLogger resultAdded
+FINER: provider=AnalysisElement(codereview.java.analysisProvider),owner=com.ibm.ws.appconversion.javaee.ee7.servlet.rules.java.SendRedirectBehaviorChangelabel=AdminServlet.java:329 Check for a behavior change on the sendRedirect method
+Sep 11, 2019 10:09:39 AM ServiceLogger resultAdded
+FINER: provider=AnalysisElement(codereview.java.analysisProvider),owner=com.ibm.ws.appconversion.javaee.ee7.jpa.rules.java.NonAnnotatedCollectionAttributeslabel=Order.java:84 Unannotated collection attributes require a Transient annotation
+Sep 11, 2019 10:09:39 AM ServiceLogger resultAdded
+FINER: provider=AnalysisElement(codereview.java.analysisProvider),owner=com.ibm.ws.appconversion.javaee.ee7.jpa.rules.java.NonAnnotatedCollectionAttributeslabel=Order.java:86 Unannotated collection attributes require a Transient annotation
+Sep 11, 2019 10:09:40 AM ServiceLogger resultAdded
+FINER: provider=AnalysisElement(codereview.java.analysisProvider),owner=com.ibm.ws.appconversion.javaee.ee7.servlet.rules.java.SendRedirectBehaviorChangelabel=RedirectFilter.java:50 Check for a behavior change on the sendRedirect method
+Sep 11, 2019 10:09:40 AM ServiceLogger resultAdded
+FINER: provider=AnalysisElement(codereview.java.analysisProvider),owner=com.ibm.ws.appconversion.javaee.ee7.servlet.rules.java.SendRedirectBehaviorChangelabel=RedirectFilter.java:56 Check for a behavior change on the sendRedirect method
+Sep 11, 2019 10:09:40 AM ServiceLogger resultAdded
+FINER: provider=AnalysisElement(codereview.java.analysisProvider),owner=com.ibm.ws.appconversion.jre.v180.rule.NumberFormatRoundinglabel=ShoppingBean.java:155 Behavior change in rounding in NumberFormat and DecimalFormat format methods
+Sep 11, 2019 10:09:40 AM ServiceLogger resultAdded
+FINER: provider=AnalysisElement(codereview.java.analysisProvider),owner=com.ibm.ws.appconversion.jre.v180.rule.NumberFormatRoundinglabel=ShoppingBean.java:175 Behavior change in rounding in NumberFormat and DecimalFormat format methods
+Sep 11, 2019 10:09:40 AM ServiceLogger resultAdded
+FINER: provider=AnalysisElement(com.ibm.ws.appconversion.file.FileAnalysisProvider),owner=com.ibm.ws.appconversion.javaee.ee7.cdi.rules.file.MissingBeansXmlRulelabel=WEB-INF:0 CDI scans for implicit beans when there is no beans.xml file
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.jre.category.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.jre.v180.rule.NumberFormatRounding
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.impl.javacodereview.DetectJavaPortlet
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.category.all.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.was2was.category.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.jre.170.JREXSLTProcessorApplet
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.servlet.rules.xml.DuplicateWebDescriptorsBehaviorChange
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.jre.170.JRETreeSetTreeMapNPE
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.SqlDriverRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.WSNotificationRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: javaee7.file.category
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.I18nRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.CreateSessionBehaviorChange
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.impl.javacodereview.DetectSpring
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rsar.analysis.xml.core.provider
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.xml.StartupBeanRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.WebSphereSdoRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.was2was.v80v85v90.removed.features.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.Axis2Rule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: javaee7.java.category.EL
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.impl.javacodereview.DetectTransactionPropagationEJBRemote
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.xml.technology.profile.med
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.HiddenThirdPartyAPIInUseAriesBlueprint
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.jre.v180.rule.JAXPProviderClassLoading
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.WebSphereUnavailableAPIsLoggingAndRAS
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: project.files.category
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.StartupBeanRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.DynamicQueryRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.manifest.category
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.cdi.rules.java.TransientFieldInSessionScope
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.HiddenThirdPartyAPIInUseJackson
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.xsl.technology.profile
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.xml.DynamicQueryRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.HostNameValidationRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.WSBARule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.WebSphereUnavailableAPIsWSSecurityHelper
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.java.technology.profile
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.MBeanRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.jre.170.JREDatagramChannelMethods
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.DetectGetRealPathTWASEmpty
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.cdi.rules.xml.BeansXmlElementsNotEnabled
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.jre.v180.rule.CollectionMethods
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.xml.category
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.jre.170.JREMouseEventGetButton
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.WebSphereUnavailableAPIsISC
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: codereview.java.analysisProvider
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jms.rules.java.PriorityAndNOLOCALBehaviorChange
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.WebSphereSchedulerRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.xml.WebDDNamespaceRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jpa.rules.java.OrderColumnOnSet
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: javaee7.file.jar.category
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.HiddenThirdPartyAPIInUseAries
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.jre.170.JRELinkedHashMapEntry
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.xml.ConnectorDDNamespaceRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.jre.170.JREThreadGroupSetMaxPriority
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.common.category.xml
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.BatchFeaturePackRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.common.category.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.category.resource.project.file
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jaxrs.rules.java.AuthSecurityHandler
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.HiddenThirdPartyAPIInUseApache
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.HiddenThirdPartyAPIInUseSLF4J
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.WebSphereUnavailableAPIsPortal
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.XMLFeaturePackRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.SystemLoadLibrary
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.HiddenThirdPartyAPIInUseRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.was2was.category.xml
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.jre.v180.rule.ExtendConcurrentHashMap
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.servlet.rules.xml.AsyncContextDispatchBehaviorChange
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.jre.v180.rule.DatagramPacketConstructor
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jpa.rules.java.EntityUsedAsEmbeddable
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.jre.v180.rule.AwtFocusTraversalKeys
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.WebSphereUnavailableAPIsSIB
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.jre.v180.rule.ProxyNonPublic
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.servlet.rules.java.ServletContextListenerBehaviorChange
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.WebSphereUnavailableAPIsManagement
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.xml.BatchFeaturePackRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.was2was.90.impacts.category.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jpa.rules.java.QueryStringInExpressionError
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.jre.170.JREcheckisLowerCaseisUpperCase
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jaxrs.rules.java.LocalAnnoCheck
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: javaee7.project.file.category.CDI
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.jre.v180.rule.ProxyConstructor
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.all.servers.rules.file.WebInfContentRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jpa.rules.java.EmbeddableIdSevere
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jpa.rules.java.PrivateAccessorTransient
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.impl.javacodereview.DetectGetRealPathMethodNull
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.jre.170.JREThrowableFinalMethods
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.servlet.rules.java.ExtendsServletOutputStream
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.cdi.rules.java.InterceptorBindingAnnotationCheck
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: jsp.weblogic.migration.analysisProvider
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.java.technology
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.jre.170.JREToolkitGetPrintJob
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.was2was.90.impacts.category.xml
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.WOLARule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jaxrs.rules.java.WinkUnavailableAPIs
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.BehaviorCreateThread
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.jre.v180.rule.ThreadStopThrowable
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.was2was.90.impacts.removed.api.xml
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jpa.rules.java.OpenJpaPersistentCollection
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jpa.rules.java.OpenJpaPackages
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.properties.file.InitialContext
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.xml.technology.profile.high
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jaxrs.rules.java.IBMRestFilterClass
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.xml.EJBDDNamespaceRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.jre.170.JRETypeVisitorInterfaceNewMethod
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jaxrs.rules.java.WinkProvidedAndUsed
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.WebSphereUnavailableAPIsWSADIE
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.impl.xmlreview.DetectJavaPortletDescriptor
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.jre.v180.rule.MBeanNonPublic
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.jre.170.category.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jpa.rules.xml.OpenJPAPersistenceProvider
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jpa.rules.xml.OpenJPALockManager
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.impl.xmlreview.DetectWSNotificationWSDL
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jpa.rules.java.EmbeddableIdWarning
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.javaee7.cdi.ImplicitCDIBehaviorChangeJAR
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.was2was.90.java.RemoveJSFSunRI
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.jre.170.JREAwtExceptionHandler
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.WSSecurityHelperGetLTPACookieFromSSOToken
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jpa.rules.xml.JpaCacheProperties
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.jsp.DetectPrecompiledJSPClasses
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: javaee7.java.category.JAX-RS
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.WebSphereWebServicesRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.cdi.rules.java.GetAnnotatedBehaviorChange
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.cdi.rules.xml.WebBeansXmlRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.was2was.90.xml.RemoveJSFSunRI
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2was.rules.v90.xml.SCARule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.cdi.rules.file.MissingBeansXmlRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jpa.rules.java.NonAnnotatedCollectionAttributes
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.java.technology.profile.low
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.file.DetectJARInLibSubfolder
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: javaee7.java.category.CDI
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.xml.SOAPOverJMSInWSDL
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.WebSphereUnavailableAPIsExceptions
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.xml.technology
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.WebSphereUnavailableAPIsEnterpriseJavaBeans
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.OSGiImportRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.impl.javacodereview.DetectJAXRPC
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jaxrs.rules.java.WinkClientReplaced
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.WSSecurityHelperRevokeSSOCookies
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.xml.WSATRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.WOLAMissingClassesRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.file.properties.category
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.jre.v180.rule.MonthFormattingNames
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.WebSphereUnavailableAPIsConnectorArchitecture
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.servlet.rules.xml.InjectionTarget
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.impl.javacodereview.DetectWSNotification
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: javaee7.xml.category.CDI
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.properties.category
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2was.rules.v90.java.CEIRemovedPackages
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.jre.170.JREFileSetReadOnlySetWritableForDirectory
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.jre.170.JREPath2dGetPathIterator
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2was.rules.v90.java.SCARule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.manifest
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: javaee7.java.category.JPA
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.WebSphereUnavailableAPIsResourceAdapter
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.category.liberty.project.file
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.jre.v180.rule.StringSplit
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.SOAPOverJMSRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.core.xsl.provider
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.was2was.v80v85v90.impacts.category.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: javaee7.xml.category.Servlet
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.WebSphereServletRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.xml.AppDDNamespaceRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.servlet.rules.java.SetCommentBehaviorChange
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: javaee7.xml.category.JPA
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: javaee7.project.file.category
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: sca.composite.files.category
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.ThirdPartyEquinoxInUseRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.impl.xmlreview.DetectEJBEntityBeans
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.jre.v180.rule.BigDecimalStripTrailingZeros
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.impl.xmlreview.DetectJAXRPC
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: javaee7.java.category.Servlet
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jpa.rules.xml.JpaOrmXml
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jpa.rules.xml.OpenJPAConfigurationProperties
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jpa.rules.java.EntityWithNoId
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.impl.xmlreview.DetectUnsupportedJSF
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.was2was.90.impacts.removed.api.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.jar.file.category
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.xsl.technology.profile.med
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.ThirdPartyAriesInUseRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.servlet.rules.java.URLPatternMapping
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.xml.WebSphereSchedulerRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.common.category.xsl
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.category.all.project.file
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jaxrs.rules.java.WinkAPIReplaced
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.all.servers.rules.file.TargetedRuntimeRuleLiberty
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.java.technology.profile.high
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.cdi.rules.java.SpecializesBehaviorChange
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jpa.rules.java.ColumnWithMapping
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.WebSphereRuntimeRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.AppProfileRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.WebSphereUnavailableAPIsPMI
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jpa.rules.java.AutoGeneratedValue
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.ServerName
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.servlet.rules.java.GetServerInfoBehaviorChange
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: javaee7.file.jar.category.CDI
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.jsp.category
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jaxrs.rules.java.ConsumesAndProducesAnnoCheck
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.WebSphereUnavailableAPIsSecurity
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: javaee7.file.category.CDI
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.xml.WOLARule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.jre.v180.rule.ExtendLocaleServiceProvider
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.DetectLookupMethod
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.cdi.rules.xml.BeansXmlNamespace
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.impl.filereview.DetectEJBBundle
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.cdi.rules.file.OpenWebBeansPropertiesFile
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.cdi.rules.java.ImplicitCDIBehaviorChange
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.xml.PersistenceXmlLocationRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jpa.rules.java.OpenJpaString
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.java.technology.profile.med
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.xml.DetectEJBJNDIbindingName
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.WebSphereUnavailableAPIsExtensionRegistry
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jaxrs.rules.java.JacksonPackages
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.WorkAreaRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jpa.rules.java.ElementCollectionName
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jaxrs.rules.java.AtomNotAvailable
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.impl.xmlreview.DetectTransactionPropagationEJBRemote
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.ActivitySessionRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.impl.javacodereview.DetectJAXR
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2was.rules.file.DetectSCACompositeFiles
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.was2was.90.sca.composite.category.file
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.jre.v180.rule.TypeVisitorInterfaceNewMethod
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.WebSphereUnavailableAPIsSMF
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.HiddenThirdPartyAPIInUseCommonJ
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.AsyncBeansSchedulerRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jpa.rules.java.MissingSetterMethod
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jpa.rules.java.LocaleAttributes
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.xml.EJBNamingLookupRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jpa.rules.xml.OpenJPASchemaProperty
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.impl.javacodereview.DetectRemoteServices
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.HiddenThirdPartyAPIInUseTivoli
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.WebSphereCommonExceptionRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.jre.170.JREUrlConnectionGetInputStream
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.servlet.rules.xml.AbsoluteOrderingBehaviorChange
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.xsl.technology
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jms.rules.java.ClientIDBehaviorChange
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.cdi.rules.xml.SessionBeans
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.file.FileAnalysisProvider
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jaxrs.rules.java.SSLUse
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jpa.rules.java.EntityNoArgConstructor
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.servlet.rules.java.AsyncContextDispatchBehaviorChange
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.cdi.rules.java.SessionBeanProducerField
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: jar.files.category
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.el.rules.java.CoerceToTypeBehaviorChange
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.WebSphereUnavailableAPIsWLM
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.EJBNamingLookupRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.impl.javacodereview.DetectJavaApplicationDeployment
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.impl.xmlreview.DetectStubClasses
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.jre.170.JRELocaleGetDefault
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2was.rules.v90.java.ApacheHTTPRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.java.MTOMRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2was.rules.v90.java.RemovedCEA
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.WebSphereUnavailableAPIsORB
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.all.servers.rules.java.DetectSystemProperties
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.WebSphereUnavailableAPIsUDDI
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.all.to.Liberty
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.servlet.rules.java.SendRedirectBehaviorChange
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.servlet.rules.xml.URLPatternMapping
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.jre.180.category.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.DynamicCacheRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.impl.javacodereview.DetectRemoteBundleRepositories
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.impl.xmlreview.DetectXSLT
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.WebSphereUnavailableAPIsTPV
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.rrd.liberty.rules.xml.technology.profile
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2was.rules.v90.java.CDIOpenWebBeansRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: javaee7.java.category
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jpa.rules.java.TemporalRemove
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.InitialContext
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.jre.170.JREWindowSetBackground
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.java.category
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jpa.rules.java.TemporalConverter
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: was2liberty.rules.java.WebSphereUnavailableAPIsTransactions
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: appconversion.jre.170.JREJdbcInterfaceNewMethods
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.was2liberty.rules.xml.ActivitySessionRule
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: com.ibm.ws.appconversion.javaee.ee7.jpa.rules.java.NonAnnotatedEntityAttributes
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: javaee7.xml.category
+Sep 11, 2019 10:09:40 AM ServiceLogger logRules
+FINER: javaee7.java.category.JMS
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/flower_geranium.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/flower_red_poinsettia.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/tabs_background_a.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/button_register.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/tulips_48.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/war/AdminServlet.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/veggies_onion.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/backorderadmin.jsp
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/item_selection.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/flower_white_poinsettia.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/button_add_to_cart.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/tab_accessories_s.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/accessories_birdfeeder.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/required.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/button_submit_order.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/trees_aspen.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/tab_veggies_u.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/veggies_watermelon.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/accessories_grassrake.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/jpa/Supplier.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/war/ShoppingItem.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/accessories_bulbdigger.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/accessories_wheelbarrow.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/ejb/ShoppingCartBean.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/flower_daisies.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/META-INF/persistence.xml
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/war/LoginInfo.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/jpa/Order.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/button_recalculate.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/flower_foxglove.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/more_btn.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/WEB-INF/classes/META-INF/persistence.xml
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/ejb/CustomerMgr.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/veggies_strawberries_48.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/war/ImageServlet.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/flower_pansies.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/button_more.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/.settings/org.eclipse.wst.common.project.facet.core.xml
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/trees_maple.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/accessories_gloves.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/tab_trees_u.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/button_change.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/sapling_whitepine_48.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/button_go.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/war/ProductBean.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/war/Populate.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/flower_black-eyed_susan.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/veggies_pineapple.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/tabs_background_b.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/trees_bonsai.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/pbw.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/theme_summer_text.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/ejb/MailerAppException.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/src/META-INF/persistence.xml
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/WEB-INF/ibm-web-bnd.xml
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/accessories_pot.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/META-INF/MANIFEST.MF
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/veggies_strawberries.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/tab_trees_s.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/theme_summer1.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/tab_flowers_s.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/strawberries_48.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/tab_accessories_u.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/button_continue_shopping.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/war/ValidatorUtils.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/poweredby_WebSphere.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/WEB-INF/web.xml
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/flower_tulips_48.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageServiceEE7/.project
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereEE7v2/META-INF/MANIFEST.MF
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/flower_lily.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/button_checkout.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/theme_summer2.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/Liberty Runtime/.project
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/flower_impatiens.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/war/OrderInfo.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/accessories_pot.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereEE7v2/.settings/org.eclipse.wst.common.project.facet.core.xml
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/ejb/BackOrderMgr.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/seeds_promo.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/strawberries_48.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/trees_bonsai_48.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/button_continue_shopping.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/veggies_gourds.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/ejb/MailerBean.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/flower_tulips_48.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/flower_goodnight_moon_iris.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/flower_lily.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/WEB-INF/beans.xml
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/theme_summer2.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/flower_sparkler_celosia.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/flower_impatiens.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/war/RedirectFilter.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageServiceEE7/.settings/org.eclipse.wst.common.project.facet.core.xml
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/tab_flowers_u.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/seeds_promo.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/src/com/ibm/websphere/samples/pbw/ms/image/ImageService.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/flower_goodnight_moon_iris.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/war/MailAction.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/trees_ash.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/WEB-INF/web.xml
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/jpa/OrderKey.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/jpa/Customer.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/accessories_leafrake.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/add_to_cart.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/ejb/CatalogMgr.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/trees_ash.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/war/AccountBean.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/veggies_gourds.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/jpa/BackOrder.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/accessories_grassrake.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/flower_bbreath.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/flower_daisies.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/accessories_birdfeeder.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/tab_trees_s.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/accessories_finchfood.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/button_previous.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/more_btn.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/button_recalculate.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereEE7v2/lib/pbw-lib.jar
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/veggies_grapes.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/flower_geranium.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereEE7v2/META-INF/maven/com.ibm.websphere.pbw/pbw-ear/pom.properties
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/flower_red_poinsettia.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/tabs_background_a.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/item_selection.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/META-INF/maven/com.ibm.websphere.pbw/PlantsByWebSphere/pom.xml
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/button_add_to_cart.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/trees_maple.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/flower_white_poinsettia.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/tab_accessories_s.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/accessories_handrake.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/war/HelpBean.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/veggies_pineapple.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/trees_aspen.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/veggies_strawberries.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/accessories_leafrake.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/add_to_cart.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/src/com/ibm/websphere/samples/pbw/ms/image/ImageApplication.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/.project
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/button_continue.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/accessories_wheelbarrow.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/flower_sparkler_celosia.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/flower_petunias.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/tab_flowers_s.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/accessories_bulbdigger.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/Liberty Runtime/servers/pbwEE7ImageServer/server.xml
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/accessories_gloves.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/sapling_whitepine_48.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/tabs_background.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/WEB-INF/classes/META-INF/persistence.xml
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/poweredby_WebSphere.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/WEB-INF/faces-config.xml
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/WEB-INF/ibm-web-ext.xml
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/flower_coleus.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/war/ValidatePasswords.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/tulips_48.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/1x1_trans.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/button_more.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/flower_pansies.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/button_checkout.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/ejb/SuppliersBean.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/veggies_onion.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/button_change.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/button_go.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/required.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/tab_trees_u.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/flower_black-eyed_susan.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/tab_flowers_u.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/tabs_background_b.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/war/BackOrderItem.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/supplierconfig.jsp
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/trees_bonsai.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/pbw.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/veggies_watermelon.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/.settings/org.eclipse.wst.common.project.facet.core.xml
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/button_register.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/flower_tulips.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/adminactions.html
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/1x1_trans.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/flower_primrose.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/trees_crab.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/accessories_shovel.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/WEB-INF/ibm-ejb-jar-bnd.xml
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/trees_bonsai_48.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/adminbanner.html
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/META-INF/maven/com.ibm.websphere.pbw/PlantsByWebSphere/pom.properties
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/tab_veggies_s.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/tab_accessories_u.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/flower_zinnia.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/accessories_birdhouse.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/flower_red_rose.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/button_sign_in.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/.project
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/flower_coleus.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/war/AccountServlet.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/ejb/ResetDBBean.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/button_continue.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/veggies_strawberries_48.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/flower_primrose.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/jpa/Inventory.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/go.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/theme_summer1.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/accessories_birdhouse.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/ejb/EMailMessage.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/flower_red_rose.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/veggies_cabbage.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/tab_veggies_s.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/flower_tulips.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/flower_african_orchid.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/button_sign_in.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/theme_summer_text.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/ejb/NoSupplierException.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/src/com/ibm/websphere/samples/pbw/ms/image/Inventory.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/index.html
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/button_update.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/admin.html
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/button_checkout_now.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/flower_white_rose.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/WEB-INF/ibm-web-ext.xml
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/error.jsp
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/tabs_background.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/flower_petunias.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/go.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/ejb/ShoppingCartContent.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/META-INF/MANIFEST.MF
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageServiceEE7/META-INF/MANIFEST.MF
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereEE7v2/.project
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/accessories_handrake.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/flower_foxglove.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/veggies_cabbage.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/flower_african_orchid.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/flower_bbreath.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/accessories_finchfood.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/war/ShoppingBean.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/Liberty Runtime/servers/pbwEE7Server/server.xml
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/button_update.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/src/com/ibm/websphere/samples/pbw/jpa/OrderItem.java
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/accessories_shovel.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/button_checkout_now.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/flower_white_rose.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/trees_crab.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/flower_zinnia.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/button_submit_order.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/veggies_grapes.jpg
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereImageService/WebContent/resources/images/button_previous.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphere/WebContent/resources/images/tab_veggies_u.gif
+Sep 11, 2019 10:09:40 AM ServiceLogger logScannedResource
+FINER: L/PlantsByWebSphereEE7v2/META-INF/maven/com.ibm.websphere.pbw/pbw-ear/pom.xml
+Sep 11, 2019 10:09:55 AM ServiceLogger resultRemoved
+FINER: provider=AnalysisElement(com.ibm.rsar.analysis.xml.core.provider),owner=com.ibm.ws.appconversion.javaee.ee7.jpa.rules.xml.JpaCachePropertieslabel=persistence.xml:5 found in PlantsByWebSphere
+Sep 11, 2019 10:10:00 AM ServiceLogger resultRemoved
+FINER: provider=AnalysisElement(com.ibm.rsar.analysis.xml.core.provider),owner=com.ibm.ws.appconversion.javaee.ee7.jpa.rules.xml.JpaCachePropertieslabel=persistence.xml:5 found in PlantsByWebSphereImageService
+Sep 11, 2019 10:10:24 AM ServiceLogger resultRemoved
+FINER: provider=AnalysisElement(codereview.java.analysisProvider),owner=com.ibm.ws.appconversion.javaee.ee7.jpa.rules.java.NonAnnotatedCollectionAttributeslabel=Order.java:86 Unannotated collection attributes require a Transient annotation
+Sep 11, 2019 10:10:29 AM ServiceLogger resultRemoved
+FINER: provider=AnalysisElement(codereview.java.analysisProvider),owner=com.ibm.ws.appconversion.javaee.ee7.jpa.rules.java.NonAnnotatedCollectionAttributeslabel=Order.java:89 Unannotated collection attributes require a Transient annotation

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><servers>
+  <server auto-publish-setting="2" auto-publish-time="1" hostname="localhost" id="Liberty Server at localhost" looseConfig="true" name="Liberty Server at localhost" runtime-id="Liberty Runtime" server-type="com.ibm.ws.st.server.wlp" server-type-id="com.ibm.ws.st.server.wlp" serverName="pbwEE7Server" serverType="libertyServer" start-timeout="60" stop-timeout="15" timestamp="1" userDirId="Liberty Runtime">
+    <list key="modules" value0="PlantsByWebSphereEE7v2::org.eclipse.jst.jee.server:PlantsByWebSphereEE7v2::jst.ear::8.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" hostname="localhost" id="Liberty Server at localhost (2)" looseConfig="true" name="Liberty Server at localhost (2)" runtime-id="Liberty Runtime" server-type="com.ibm.ws.st.server.wlp" server-type-id="com.ibm.ws.st.server.wlp" serverName="pbwEE7ImageServer" serverType="libertyServer" start-timeout="60" stop-timeout="15" timestamp="1" userDirId="Liberty Runtime">
+    <list key="modules" value0="PlantsByWebSphereImageServiceEE7::org.eclipse.jst.jee.server:PlantsByWebSphereImageServiceEE7::jst.ear::8.0"/>
+  </server>
+</servers>

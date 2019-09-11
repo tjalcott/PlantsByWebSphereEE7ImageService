@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="PlantsByWebSphereImageServiceEE7v2">
+        <wb-resource deploy-path="/" source-path="/" tag="defaultRootSource"/>
+        <dependent-module archiveName="PlantsByWebSphereImageServiceEE7.war" deploy-path="/" handle="module:/resource/PlantsByWebSphereImageServiceEE7/PlantsByWebSphereImageServiceEE7">
+            <dependent-object>Module_1568213398470</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>
