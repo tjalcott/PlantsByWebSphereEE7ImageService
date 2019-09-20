@@ -4,5 +4,8 @@
         <dependent-module archiveName="PlantsByWebSphere.war" deploy-path="/" handle="module:/resource/PlantsByWebSphere/PlantsByWebSphere">
             <dependency-type>uses</dependency-type>
         </dependent-module>
+        <dependent-module archiveName="pbw-lib.jar" deploy-path="/lib" handle="module:/resource/pbw-lib/pbw-lib">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
     </wb-module>
 </project-modules>

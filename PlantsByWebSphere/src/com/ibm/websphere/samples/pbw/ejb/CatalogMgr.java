@@ -224,8 +224,6 @@ public class CatalogMgr
 		return inv;
 	}
 	
-
-	
 	
 }
 

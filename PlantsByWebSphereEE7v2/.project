@@ -4,6 +4,7 @@
 	<comment></comment>
 	<projects>
 		<project>PlantsByWebSphere</project>
+		<project>pbw-lib</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

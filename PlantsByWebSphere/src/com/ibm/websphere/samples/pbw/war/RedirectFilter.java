@@ -30,10 +30,11 @@ import javax.servlet.annotation.*;
 	String colon = ":" ;
 	String pbwisIp = System.getenv("PBWIS_SERVICE_PORT_9081_TCP_ADDR") ;
 	String pbwisPort = System.getenv("PBWIS_SERVICE_SERVICE_PORT") ;
-// Comment line below for Local Liberty testing
+	
+	//comment and uncomment below for local testing
+	
 	String serviceEndpoint = httpPre+pbwisIp+colon+pbwisPort;
-// Uncommment line below for local Liberty testing
-	//	String serviceEndpoint="http://localhost:9081" ; 
+	// String serviceEndpoint = "http://localhost:9081" ;
 	 
 @Override
  public void doFilter(ServletRequest request, ServletResponse response, FilterChain chain) throws IOException, ServletException {
